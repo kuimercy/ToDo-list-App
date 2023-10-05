@@ -1,0 +1,16 @@
+/* Container styles */
+.App {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #0dacf5;
+  
+  }
+  .title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    font-size: x-large;
+
+  }
